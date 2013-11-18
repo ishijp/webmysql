@@ -1,0 +1,56 @@
+a {
+  text-decoration: none;
+}
+
+textarea {
+ font-size: 12px;
+ font-family: "Courier New","ÇlÇr ÉSÉVÉbÉN";
+}
+
+.intbl {
+  font-size: 11px;
+  font-family: Arial;
+  padding: 2px;
+  border-style: none;
+}
+
+.clear {
+ font-size: 10px;
+ color: black;
+ background-color: #eeeeee;
+ border-width: 1px;
+ border-style: solid;
+ border-color: olive;
+ padding-top: 2px;
+ padding: 2px;
+ line-height: 14px;
+ vertical-align: bottom;
+ text-decoration: none;
+}
+
+.hist_clear {
+  font-size: 11px;
+  font-family: "ÇlÇr ÇoÉSÉVÉbÉN";
+  color: black;
+  background-color: yellow;
+  border-width: 1px;
+  border-style: solid;
+  border-color: olive;
+  padding-top: 2px;
+  padding: 2px;
+  line-height: 14px;
+  vertical-align: top;
+}
+
+.outbody {
+ font-size: 13px;
+ font-family: Arial,"ÇlÇr ÇoÉSÉVÉbÉN";
+}
+
+.outtbl {
+ background-color: #eeeeee;
+ padding: 2px;
+ border: 1px solid black;
+ font-size: 12px;
+ font-family: "Courier New","ÇlÇr ÉSÉVÉbÉN";
+}
